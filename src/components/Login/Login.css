@@ -1,0 +1,26 @@
+.login-form{
+    padding: 50px 30px;
+    border-radius: 10px;
+}
+.login-form input{
+    width:300px;
+}
+.btn-submit{
+    background-color: rgb(3, 209, 175);
+    width: 200px;
+    margin-top: 20px;
+    color: white;
+    margin-bottom: 10px;
+}
+.btn-submit:hover{
+    color:black,
+    
+}
+.login-form p span{
+    color: gray;
+    font-weight: 600;
+    cursor: pointer;
+}
+.login-form span:hover{
+    color: rgb(3, 209, 175);
+}
