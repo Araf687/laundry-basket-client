@@ -1,3 +1,10 @@
+#This is an app for giving laundry order online.
+Here I have used react js,material ui for design and express, mongodb for backend.
+I have created an admin panel also.This repository contains the codes of front-end only here are also another repository of backend code for this app which is 
+laundry-basket-server.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
